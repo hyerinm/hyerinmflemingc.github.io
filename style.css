@@ -62,8 +62,8 @@ div{
 /*Make div image be rounded image*/
 .div-img{
     border-radius: 50%;
-    width: 5000px;
-    height: 5000px;
+    width: 450px;
+    height: 450px;
 }
 .div h1{
     font-size: 200px;
