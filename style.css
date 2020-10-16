@@ -5,6 +5,7 @@ body{
     /* background: url("grass.jpg");*/
     background-color: bisque;
     background-size: cover;
+    font-family: 'Tangerine';
 }
 /*Creating Horizontal Navigation Bar by using inline */
 li{
