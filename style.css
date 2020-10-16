@@ -5,18 +5,22 @@ body{
     background: url("grass.jpg");
     background-size: cover;
 }
+/*Creating Horizontal Navigation Bar by using inline */
 li{
     display: inline;
 }
 
+/*Locate the Navigation Bar to the left side */
 li {
     float: left;
   }
-  
-  a {
+
+/*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
+because I didn't want a full- width background color */
+a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    background-color: #D2691E;
   }
 
 ul{
@@ -24,7 +28,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #DEB887;
   }
   
   li {
