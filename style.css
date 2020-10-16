@@ -2,7 +2,8 @@ body{
     margin: 0;
     /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
     padding: 0;
-    background: url("grass.jpg");
+    /* background: url("grass.jpg");*/
+    background-color: bisque;
     background-size: cover;
 }
 /*Creating Horizontal Navigation Bar by using inline */
@@ -67,11 +68,6 @@ div{
 .div h1{
     font-size: 200px;
     letter-spacing: 4px;
-    font-weight: 100;
-}
-.div h2{
-    font-size: 10px;
-    letter-spacing: 8px;
     font-weight: 100;
 }
 .div h5{
