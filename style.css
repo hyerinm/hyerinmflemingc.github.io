@@ -5,7 +5,6 @@ body{
     /* background: url("grass.jpg");*/
     background-color: bisque;
     background-size: cover;
-    font-family: 'Tangerine';
 }
 /*Creating Horizontal Navigation Bar by using inline */
 li{
@@ -58,7 +57,7 @@ div{
     margin: auto;
     margin-top: 5%;
     color: white;
-    font-family: 'Century Gothic', sans-serif;
+    font-family: 'Tangerine', sans-serif;
 }
 /*Make div image be rounded image*/
 .div-img{
