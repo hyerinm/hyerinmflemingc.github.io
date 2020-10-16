@@ -43,16 +43,16 @@ ul{
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
+  /* Change the link color to ##DEB887 on hover */
   li a:hover {
-    background-color: #111;
+    background-color: #DEB887;
   }
 div{
     width: 450px;
     /* rgba(red,green,blue, alpah). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque) */
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
-    text-align: center;
+    text-align: left;
     margin: auto;
     margin-top: 5%;
     color: white;
@@ -67,6 +67,11 @@ div{
 .div h1{
     font-size: 40px;
     letter-spacing: 4px;
+    font-weight: 100;
+}
+.div h2{
+    font-size: 150px;
+    letter-spacing: 8px;
     font-weight: 100;
 }
 .div h5{
