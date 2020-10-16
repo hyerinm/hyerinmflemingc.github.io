@@ -8,7 +8,7 @@ body{
 div{
     width: 450px;
     /* rgba(red,green,blue, alpah). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque) */
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0.4, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
     margin: auto;
@@ -16,6 +16,7 @@ div{
     color: white;
     font-family: 'Century Gothic', sans-serif;
 }
+/*Make div image be rounded image*/
 .div-img{
     border-radius: 50%;
     width: 200px;
