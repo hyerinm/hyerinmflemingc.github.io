@@ -49,12 +49,12 @@ body{
     background-color: #F0F8FF;
   }
 
- div.column1of2{
+ .div-column1of2{
      float: left;
      width: 620px;
      margin: 10px;}
 
-div.column2of2{
+.div-column2of2{
     float: left;
     width: 300px
     margin: 10px;}
