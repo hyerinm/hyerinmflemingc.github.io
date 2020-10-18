@@ -48,22 +48,16 @@ body{
   li a:hover {
     background-color: #DEB887;
   }
-  div {
-    border: 1px solid gray;
-    padding: 8px;
-  }
-  
-  h1 {
-    text-align: justify;
-    text-transform: uppercase;
-    color: #F0F8FF;
-  }
- 
-  p {
-    text-indent: 50px;
-    text-align: justify;
-    letter-spacing: 3px;
-    color:#F0F8FF;
+  div{
+    width: 450px;
+    /* rgba(red,green,blue, alpah). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque) */
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Commissioner', sans-serif;
   }
   
  
