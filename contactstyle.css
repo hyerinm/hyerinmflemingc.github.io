@@ -50,8 +50,11 @@ body{
   }
 h1{
     color: whitesmoke
-    text-aligh;
+    position: absolute;
+    left: 100px;
+    top: 150px;
 }
+
 .column1of3{
     float: right;
     width: 350px;
