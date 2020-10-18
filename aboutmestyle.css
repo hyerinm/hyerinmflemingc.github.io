@@ -52,10 +52,10 @@ body{
  .column1of2{
     float: left;
     width: 350px;
-    margin: 10px;}
+    margin: 300px;}
 
 .column2of2{
-    float: left;
+    float: right;
     width: 350px;
-    margin: 10px;
+    margin: 300px;
     color: white;}
