@@ -2,7 +2,7 @@ body{
   margin: 0;
   /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
   padding: 0;
-  background: url(background.jpg) no-repeat;
+  background: url(backgroundImage.jpg) no-repeat;
   background-position: bottom right;
 }
 /*Creating Horizontal Navigation Bar by using inline */
