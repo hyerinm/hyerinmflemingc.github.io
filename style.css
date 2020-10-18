@@ -48,16 +48,13 @@ body{
   li a:hover {
     background-color: #696969;
   }
-
+  
  .column1of2{
     float: left;
     border-radius: 50%;
     width: 450px;
     height: 450px;
-    margin-top: 200px;
-    margin-bottom: 50px;
-    margin-right: 150px;
-    margin-left: 350px;
+
     }
 
 .column2of2{
