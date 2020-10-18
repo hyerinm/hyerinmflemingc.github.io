@@ -51,12 +51,23 @@ body{
 h1{
     color: whitesmoke;
 }
-  div{
-    margin: 10px;
-    padding-bottom: 10px;
-    width: 260px;
-    color: whitesmoke;
-  }
+.column1of2{
+    float: right;
+    width: 350px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 50px;
+    color: white;}
+.column2of2{
+    float: right;
+    width: 350px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 50px;
+    color: white;}
+
   .submit{
     text-align: right;
   }
