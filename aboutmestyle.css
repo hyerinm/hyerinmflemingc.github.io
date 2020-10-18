@@ -54,20 +54,16 @@ body{
   }
   
   h1 {
-    text-align: center;
+    text-align: right;
     text-transform: uppercase;
-    color: #4CAF50;
+    color: #F0F8FF;
   }
-  
-  h5{
-    text-align: center;
-    text-transform: uppercase;
-    color: #4CAF50;
-  }a
+ 
   p {
     text-indent: 50px;
-    text-align: justify;
+    text-align: right;
     letter-spacing: 3px;
+    color:#F0F8FF;
   }
   
  
