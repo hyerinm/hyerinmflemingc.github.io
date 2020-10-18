@@ -48,6 +48,13 @@ body{
   li a:hover {
     background-color: #696969;
   }
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+}
 h1{
     color: whitesmoke;
     position: absolute;
