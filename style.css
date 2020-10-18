@@ -1,74 +1,70 @@
 body{
-  margin: 0;
-  /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
-  padding: 0;
-  background: url(background.jpg) no-repeat;
-  background-size: cover;
-}
-/*Creating Horizontal Navigation Bar by using inline */
-li{
-  display: inline;
-}
+    margin: 0;
+    /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
+    padding: 0;
+    background: url(background.jpg) no-repeat;
+    background-size: cover;
+  }
+  /*Creating Horizontal Navigation Bar by using inline */
+  li{
+    display: inline;
+  }
+  
+  /*Locate the Navigation Bar to the left side */
+  li {
+    float: left;
+  }
+  
+  /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
+  because I didn't want a full- width background color */
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #2F4F4F;
+  }
+  
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Commissioner', sans-serif;
+  }
+  
+  /* Change the link color to ##DEB887 on hover */
+  li a:hover {
+    background-color: #696969;
+  }
 
-/*Locate the Navigation Bar to the left side */
-li {
-  float: left;
-}
+ .column1of2{
+    float: left;
+    border-radius: 50%;
+    width: 350px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 350px;
+    }
 
-/*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
-because I didn't want a full- width background color */
-a {
-  display: block;
-  padding: 8px;
-  background-color: #2F4F4F;
-}
-
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #000000;
-}
-
-li {
-  float: right;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-family: 'Commissioner', sans-serif;
-}
-
-/* Change the link color to ##DEB887 on hover */
-li a:hover {
-  background-color: #696969;
-}
-div{
-  width: 450px;
-  /* rgba(red,green,blue, alpah). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque) */
-  background: rgba(0, 0, 0, 0.4);
-  padding: 40px;
-  text-align: center;
-  margin: auto;
-  margin-top: 5%;
-  color: white;
-  font-family: 'Commissioner', sans-serif;
-}
-/*Make div image be rounded image*/
-.div-img{
-  border-radius: 50%;
-  width: 450px;
-  height: 450px;
-}
-.div h1{
-  font-size: 200px;
-  letter-spacing: 4px;
-  font-weight: 100;
-}
-
+.column2of2{
+    float: right;
+    width: 350px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 50px;
+    color: white;}
 
