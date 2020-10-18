@@ -60,7 +60,16 @@ body{
     margin-right: 150px;
     margin-left: 350px;
     }
-
+.row1{
+    float: left;
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    margin-top: 650px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 250px;
+}
 .column2of2{
     float: right;
     width: 350px;
