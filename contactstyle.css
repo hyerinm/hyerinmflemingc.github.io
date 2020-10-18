@@ -56,8 +56,8 @@ h1{
     width: 350px;
     margin-top: 200px;
     margin-bottom: 100px;
-    margin-right: 350px;
-    margin-left: 50px;
+    margin-right: 50px;
+    margin-left: 350px;
     color: white;}
 .column2of2{
     float: right;
@@ -69,6 +69,6 @@ h1{
     color: white;}
 
   .submit{
-    text-align: right;
+    text-align: relative;
   }
     
