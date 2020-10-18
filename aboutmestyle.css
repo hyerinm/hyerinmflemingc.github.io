@@ -50,15 +50,15 @@ body{
   }
 
  .column1of2{
-     float: left;
-     width: 450px;
-     margin: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 300px;
      }
 
 .column2of2{
-    float: left;
-    width: 300px;
-    margin-right: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 300px;
     margin-left: 80px;
-    color: #F8F8FF;
 }
