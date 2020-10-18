@@ -53,7 +53,7 @@ body{
     /* rgba(red,green,blue, alpah). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque) */
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
-    text-align: center;
+    text-align: right;
     margin: auto;
     margin-top: 5%;
     color: white;
