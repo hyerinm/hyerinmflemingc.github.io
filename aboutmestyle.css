@@ -46,26 +46,16 @@ body{
   
   /* Change the link color to ##DEB887 on hover */
   li a:hover {
-    background-color: #DEB887;
+    background-color: #F0F8FF;
   }
-  div{
-    width: 450px;
-    /* rgba(red,green,blue, alpah). The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque) */
-    background: rgba(0, 0, 0, 0.4);
-    padding: 40px;
-    text-align: right;
-    margin: auto;
-    margin-top: 5%;
-    color: white;
-    font-family: 'Commissioner', sans-serif;
-  }
-  
+
   .div-img{
-    border-radius: 50%;
+    left: 0;
     width: 450px;
     height: 450px;
   }
   .div h1{
+    right: 0;
     font-size: 200px;
     letter-spacing: 4px;
     font-weight: 100;
