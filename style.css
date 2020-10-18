@@ -50,7 +50,7 @@ body{
   }
   
   
- div.img{
+.column1of2{
     float: left;
     border-radius: 50%;
     width: 450px;
