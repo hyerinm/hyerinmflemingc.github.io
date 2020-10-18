@@ -84,7 +84,7 @@ form{
 input{
     height: 45px;
 }
-form.submit{
+.form.submit{
     background: plum;
     border-color: transparent;
     color: white;
@@ -95,7 +95,7 @@ form.submit{
     margin-top: 20px;
 }
 
-form.submit:hover
+.form.submit:hover
 { 
     background-color: mediumpurple;
     cursor: pointer;
