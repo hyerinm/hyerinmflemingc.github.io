@@ -54,14 +54,14 @@ body{
   }
   
   h1 {
-    text-align: right;
+    text-align: justify;
     text-transform: uppercase;
     color: #F0F8FF;
   }
  
   p {
     text-indent: 50px;
-    text-align: right;
+    text-align: justify;
     letter-spacing: 3px;
     color:#F0F8FF;
   }
