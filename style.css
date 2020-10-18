@@ -63,12 +63,12 @@ body{
 .row1{
     float: left;
     border-radius: 50%;
-    width: 450px;
-    height: 450px;
-    margin-top: 650px;
+    width: 508px;
+    height: 508px;
+    margin-top: 400px;
     margin-bottom: 50px;
     margin-right: 150px;
-    margin-left: 250px;
+    margin-left: 10px;
 }
 .column2of2{
     float: right;
