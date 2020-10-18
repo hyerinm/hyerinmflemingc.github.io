@@ -58,6 +58,7 @@ body{
 .column2of2{
     float: left;
     width: 300px;
-    margin: 50x;
+    margin-right: 50px;
+    margin-left: 80px;
     color: white;
 }
