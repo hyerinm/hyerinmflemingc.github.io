@@ -64,11 +64,11 @@ body{
     float: left;
     border-radius: 50%;
     width: 350px;
-    height: 350px;
+    height: 400px;
     margin-top: 400px;
     margin-bottom: 50px;
     margin-right: none;
-    margin-left: none;
+    margin-left: 5px;
 }
 .column2of2{
     float: right;
