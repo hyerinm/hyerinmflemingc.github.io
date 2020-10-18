@@ -48,11 +48,14 @@ body{
   li a:hover {
     background-color: #696969;
   }
-
+h1{
+    color: whitesmoke;
+}
   div{
     margin: 10px;
     padding-bottom: 10px;
     width: 260px;
+    color: whitesmoke;
   }
   .submit{
     text-align: right;
