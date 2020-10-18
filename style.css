@@ -2,9 +2,9 @@ body{
   margin: 0;
   /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
   padding: 0;
-  background: "images/backgroudImage.jpg";
+  background: url("mages.backgroudImage.jpg");
   background-color: bisque;
-  background-size: cover;
+  background-size: auto;
 }
 /*Creating Horizontal Navigation Bar by using inline */
 li{
