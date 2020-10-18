@@ -94,3 +94,10 @@ form.submit{
     height: 50px;
     margin-top: 20px;
 }
+
+form.submit:hover
+{ 
+    background-color: mediumpurple;
+    cursor: pointer;
+}
+
