@@ -21,7 +21,7 @@ because I didn't want a full- width background color */
 a {
   display: block;
   padding: 8px;
-  background-color: #D2691E;
+  background-color: #2F4F4F;
 }
 
 ul{
@@ -29,7 +29,7 @@ ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #DEB887;
+  background-color: #000000;
 }
 
 li {
