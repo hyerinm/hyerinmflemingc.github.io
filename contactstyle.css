@@ -68,20 +68,3 @@ body{
     line-height: 10px;
     color: white;
 }
-form
-{
-    margin-top: 50px;
-    transition: all 4s ease-in-out;
-} 
-.form-control
-{
-    width: 600px;
-    background: transparent;
-    border: none;
-    outline: none;
-    border-bottom: 1px solid gray;
-    color: #fff;
-    font-size: 18px;
-    margin-bottom: 16px;
-}
-
