@@ -52,10 +52,17 @@ body{
  .column1of2{
     float: left;
     width: 350px;
-    margin: 300px;}
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 350px;
+    }
 
 .column2of2{
     float: right;
     width: 350px;
-    margin: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 150px;
     color: white;}
