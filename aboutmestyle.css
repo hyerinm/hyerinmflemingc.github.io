@@ -60,5 +60,15 @@ body{
     font-family: 'Commissioner', sans-serif;
   }
   
- 
+  .div-img{
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+  }
+  .div h1{
+    font-size: 200px;
+    letter-spacing: 4px;
+    font-weight: 100;
+  }
+  
   
