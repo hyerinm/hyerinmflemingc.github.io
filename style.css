@@ -2,7 +2,7 @@ body{
   margin: 0;
   /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
   padding: 0;
-  background: url("mages.backgroudImage.jpg");
+  background: url("images.backgroudImage.jpg");
   background-color: bisque;
   background-size: auto;
 }
