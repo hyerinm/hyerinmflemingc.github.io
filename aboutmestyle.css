@@ -49,17 +49,12 @@ body{
     background-color: #F0F8FF;
   }
 
-  .div-img{
-    text-align: left;
-    width: 450px;
-    height: 450px;
-  }
-  .div h1{
-    text-align: right; 
-    font-size: 200px;
-    letter-spacing: 4px;
-    font-weight: 100;
-    color: white;
-  }
-  
-  
+ .column1of2{
+     float: left;
+     width: 620px;
+     margin: 10px;}
+
+.column2of2{
+    float: left;
+    width: 300px
+    margin: 10px;}
