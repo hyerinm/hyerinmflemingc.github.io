@@ -3,8 +3,7 @@ body{
   /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
   padding: 0;
   background: url("images.backgroudImage.jpg");
-  background-color: bisque;
-  background-size: auto;
+  background-size: cover;
 }
 /*Creating Horizontal Navigation Bar by using inline */
 li{
