@@ -63,18 +63,17 @@ body{
     height: 198px;
     margin-top: 300px;   
 }
-figure{
+/*figure{
     display:block;
-    width:400px;
-    height:400px;
+    width:350px;
+    height:350px;
     margin:0px;
     padding:20px;
     text-align: left;
-}
+}*/
 figure img{
-    width: 400x;
-    height: 400px;
-    border: 1px soild palevioletred;
+    width: 350x;
+    height: 350px;
     border-radius: 50%;
     text-align: left;
 }
@@ -86,6 +85,5 @@ figure img{
     margin-bottom: 100px;
     margin-right: 350px;
     margin-left: 50px;
-    color: white;
-}
+    color: white;}
 
