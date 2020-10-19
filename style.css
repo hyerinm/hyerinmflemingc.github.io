@@ -57,7 +57,7 @@ body{
  } 
  .entry1{
     width: 220px;
-    float: left;
+    float: none;
     /*dividethe image*/
     margin: 30px;
     height: 198px;
@@ -65,7 +65,7 @@ body{
 }
 .entry2{
     width: 220px;
-    float: right;
+    float: none;
     /*dividethe image*/
     margin: 30px;
     height: 198px;
