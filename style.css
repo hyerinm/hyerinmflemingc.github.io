@@ -62,12 +62,13 @@ figure{
     margin:0px;
     padding:20px;
     text-align: left;
-    border-radius: 50%;
 }
 figure img{
     width: 350px;
     height: 350px;
-    border: 1px soild palevioletred;}
+    border: 1px soild palevioletred;
+    border-radius: 50%;
+}
 
 .veryimp{
     float: right;
