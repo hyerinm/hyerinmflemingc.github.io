@@ -59,8 +59,7 @@ body{
  .entry1{
     width: 220px;
     /*dividethe image*/
-    margin-left: 50px;
-    height: 198px;
+    float: left;
     margin-top: 300px; 
     margin: 30px;  
 }
