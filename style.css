@@ -60,16 +60,6 @@ body{
     margin-right: 150px;
     margin-left: 350px;
     }
-
-.heading{
-    float: right;
-    width: 350px;
-    margin-top: 200px;
-    margin-bottom: 100px;
-    margin-right: 350px;
-    margin-left: 50px;
-    color: white;}
-
 .image2{
     float: left;
     border-radius: 50%;
@@ -80,3 +70,12 @@ body{
     margin-right: none;
     margin-left: 5px;
 }
+.veryimp{
+    float: right;
+    width: 350px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 50px;
+    color: white;}
+
