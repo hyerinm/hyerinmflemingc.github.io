@@ -50,7 +50,7 @@ body{
   }
   
   
-.column1of2{
+.image1{
     float: left;
     border-radius: 50%;
     width: 450px;
@@ -61,7 +61,7 @@ body{
     margin-left: 350px;
     }
 
-.column2of2{
+.heading{
     float: right;
     width: 350px;
     margin-top: 200px;
@@ -70,7 +70,7 @@ body{
     margin-left: 50px;
     color: white;}
 
-.row1{
+.image2{
     float: left;
     border-radius: 50%;
     width: 350px;
