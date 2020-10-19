@@ -48,3 +48,7 @@ body{
   li a:hover {
     background-color: #696969;
   }
+  .heading{
+    color: white;
+    text-align: center;
+  }
