@@ -50,25 +50,13 @@ body{
   }
   
   
-.image1{
-    float: left;
-    border-radius: 50%;
-    width: 450px;
-    height: 450px;
-    margin-top: 200px;
-    margin-bottom: 50px;
-    margin-right: 150px;
-    margin-left: 350px;
-    }
-.image2{
-    float: left;
-    border-radius: 50%;
-    width: 350px;
-    height: 400px;
-    margin-top: 400px;
-    margin-bottom: 50px;
-    margin-right: none;
-    margin-left: 5px;
+figure{
+    display:block;
+    width:300px;
+    height:300px;
+    margin:0px;
+    padding:0px;
+    text-align: left;
 }
 .veryimp{
     float: right;
