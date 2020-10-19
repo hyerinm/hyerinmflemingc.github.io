@@ -51,27 +51,24 @@ body{
  .entry{
      width: 220px;
      float: left;
-     /*dividethe image*/
      margin-top: 30px;
      margin: 30px;
      height: 198px;
  } 
  .entry1{
-    width: 220px;
-    /*dividethe image*/
-    margin-left: 30px;
-    margin: 30px;  
-    margin-top: 300px; 
-    margin: 30px;  
-}
-.entry2{
-    width: 220px;
-    /*dividethe image*/
+     width: 220px;
+     float: left;
+     margin-top: 300px;
+    margin: 30px;
     height: 198px;
-    float: left;
-    margin-top: 550px; 
-    margin: 30px;  
-}
+} 
+.entry2{
+   width: 220px;
+   float: left;
+    margin-top: 500x;
+    margin: 30px;
+    height: 198px;
+}   
 
 figure img{
     width: 350px;
