@@ -57,15 +57,13 @@ body{
  } 
  .entry1{
     width: 220px;
-    float: none;
     /*dividethe image*/
-    margin: 30px;
+    margin: 20px;
     height: 198px;
     margin-top: 300px;   
 }
 .entry2{
     width: 220px;
-    float: none;
     /*dividethe image*/
     margin: 30px;
     height: 198px;
