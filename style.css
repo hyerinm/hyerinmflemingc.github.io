@@ -60,6 +60,16 @@ body{
     margin-right: 150px;
     margin-left: 350px;
     }
+
+.column2of2{
+    float: right;
+    width: 350px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 50px;
+    color: white;}
+
 .row1{
     float: left;
     border-radius: 50%;
@@ -70,12 +80,3 @@ body{
     margin-right: none;
     margin-left: 5px;
 }
-.column2of2{
-    float: right;
-    width: 350px;
-    margin-top: 200px;
-    margin-bottom: 100px;
-    margin-right: 350px;
-    margin-left: 50px;
-    color: white;}
-
