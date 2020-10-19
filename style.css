@@ -59,7 +59,7 @@ body{
  .entry1{
     width: 220px;
     /*dividethe image*/
-    float: left;
+    margin-left: 30PX;
     height: 198px;
     margin-top: 250px; 
     margin: 30px;  
@@ -69,6 +69,7 @@ body{
     /*dividethe image*/
     float: left;
     height: 198px;
+    margin-left: 30PX;
     margin-top: 350px; 
     margin: 30px;  
 }
@@ -84,7 +85,7 @@ figure img{
     width: 500px;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 50px;
+    margin-right: 80px;
     margin-left: 50px;
     color: white;}
 
