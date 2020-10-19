@@ -51,9 +51,18 @@ body{
  .entry{
      width: 220px;
      float: left;
+     /*dividethe image*/
      margin: 30px;
      height: 198px;
  } 
+ .entry1{
+    width: 220px;
+    float: left;
+    /*dividethe image*/
+    margin: 30px;
+    height: 198px;
+    margin-top: 400px;
+}
   
 figure{
     display:block;
