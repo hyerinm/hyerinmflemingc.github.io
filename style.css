@@ -48,7 +48,12 @@ body{
   li a:hover {
     background-color: #696969;
   }
-  
+ .entry{
+     width: 220px;
+     float: left;
+     margin: 10px;
+     height: 198px;
+ } 
   
 figure{
     display:block;
