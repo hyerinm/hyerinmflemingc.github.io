@@ -76,6 +76,8 @@ figure img{
     height: 400px;
     border: 1px soild palevioletred;
     border-radius: 50%;
+    text-align: left;
+}
 }
 
 .veryimp{
