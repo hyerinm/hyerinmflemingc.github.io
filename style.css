@@ -1,49 +1,93 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>MypPrsonalWebsite</title>
-    <!-- Bring Styles from style.css-->
-    <link rel="stylesheet" href="style.css">
+body{
+    margin: 0;
+    /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
+    padding: 0;
+    background: url(background.jpg) no-repeat;
+    background-size: cover;
+  }
+  /*Creating Horizontal Navigation Bar by using inline */
+  li{
+    display: inline;
+  }
+  
+  /*Locate the Navigation Bar to the left side */
+  li {
+    float: left;
+  }
+  
+  /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
+  because I didn't want a full- width background color */
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #2F4F4F;
+  }
+  
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Commissioner', sans-serif;
+  }
+  
+  /* Change the link color to ##DEB887 on hover */
+  li a:hover {
+    background-color: #696969;
+  }
+ .entry{
+     width: 220px;
+     float: left;
+     /*dividethe image*/
+     margin: 30px;
+     height: 198px;
+ } 
+ .entry1{
+    width: 220px;
+    /*dividethe image*/
+    margin-left:20px;
+    margin-right: auto;
+    height: 198px;
+    margin-top: 330px; 
+    margin: 30px;  
+}
+.entry2{
+    width: 220px;
+    float: left;
+    /*dividethe image*/
+    margin-left: 60px;
+    margin-right: auto;
+    height: 198px;
+    margin-top: 430px; 
+    margin: 30px;  
+}
 
-    <!--Navigation Bar = List of Links-->
-    <!-- Made html pages on github first, linked, and named them as CONTACT. RESUME and ABOUT ME-->
-    <ul>
-        <li><a href="https://www.linkedin.com/in/hyerinmun/">04. LinkedIn</a></li>
-        <li><a href="https://flemingcollege.ca/programs/geographic-information-systems-applications-specialist">03. Fleming College</a></li>
-        <li><a href="resume.html">02. RESUME</a></li>
-        <li><a href="index.html">01. WELCOME</a></li>
-    </ul>
-</head>
+figure img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    text-align: left;
+}
 
-<div class="entry">
-    <figure><img src ="images/me.jpg" alt="Me" style="width:350px;height:350px;"></figure>
-</div>
-<div class="entry">
-    <figure><img src="images/me1.jpg" alt="Me1" style="width:350px;height:350px;"></figure>
-</div>
+.veryimp{
+    float: right;
+    width: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 50px;
+    color: white;}
 
-<div class="veryimp">  
-    <h1> Hello, World! </h1>
-    <h2> Her Name is Hyerin Mun!</h2>   
-    <p> Hyerin Mun is currently studying Geographic Information Systems - Applications Specialist at Fleming College. <br>Also, She has a degree in Geology in University of Saskatchewan.
-        <br>Her current interest in writing program in Python, Html, and CSS! She is also enjoying making maps with ArcGIS and AutoCAD!
-        <br>She finds it weird to write information about herself in third person haha ;) <br>While she is not studying, She might see her snowboarding, watching movies, and playing games.
-     her favorites are going for a trip! Also, Hyerin worked at Starbucks, so she knows how to make good frappucino! Yum!  </p>
-</div>
-
-<div class="entry1">
-    <figure><img src="images/me4.jpg" alt="Me4" style="width:350px;height:350px;"></figure>
-</div>
-<div class="entry1">
-    <figure><img src="images/me6.jpg" alt="Me6" style="width:350px;height:350px;"></figure>
-</div>
-<div class="entry2">
-    <figure><img src="images/me3.jpg" alt="Me3" style="width:350px;height:350px;"></figure>
-</div>
-<div class="entry2">
-    <figure><img src="images/me5.jpg" alt="Me5" style="width:350px;height:350px;"></figure>
-</div>
-
-
-<!--https://brittanychiang.com/-->
