@@ -49,27 +49,20 @@ body{
     background-color: #696969;
   }
  .entry{
-     width: 220px;
-     float: left;
-     margin-top: 30px;
-     margin: 30px;
-     height: 198px;
+    width: 220px;
+    float: left;
+    margin-top: 30px;
+    margin: 30px;
+    height: 198px;
  } 
  .entry1{
-     width: 220px;
-     float: left;
-     margin-top: 300px;
+    width: 220px;
+    margin-left: 30px;
+    margin-right: 30;
+    margin-top: 300px;
     margin: 30px;
     height: 198px;
-} 
-.entry2{
-   width: 220px;
-   float: left;
-    margin-top: 500x;
-    margin: 30px;
-    height: 198px;
-}   
-
+ }
 figure img{
     width: 350px;
     height: 350px;
