@@ -4,59 +4,68 @@ body{
     padding: 0;
     background: url(background.jpg) no-repeat;
     background-size: cover;
-  }
-  /*Creating Horizontal Navigation Bar by using inline */
-  li{
+    }
+    /*Creating Horizontal Navigation Bar by using inline */
+    li{
     display: inline;
-  }
-  
-  /*Locate the Navigation Bar to the left side */
-  li {
+    }
+
+    /*Locate the Navigation Bar to the left side */
+    li {
     float: left;
-  }
-  
-  /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
-  because I didn't want a full- width background color */
-  a {
+    }
+
+    /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
+    because I didn't want a full- width background color */
+    a {
     display: block;
     padding: 8px;
     background-color: #2F4F4F;
-  }
-  
-  ul{
+    }
+
+    ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #000000;
-  }
-  
-  li {
+    }
+
+    li {
     float: right;
-  }
-  
-  li a {
+    }
+
+    li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Commissioner', sans-serif;
-  }
-  
-  /* Change the link color to ##DEB887 on hover */
-  li a:hover {
+    }
+
+    /* Change the link color to ##DEB887 on hover */
+    li a:hover {
     background-color: #696969;
-  }
- .entry1{
+    }
+    .entry1{
     width: 220px;
     float: left;
     margin-right: 50px;
     margin-top: 250px;
     margin: 30px;
- }
- figure img{
+    }
+    figure img{
     width: 350px;
     height: 350px;
     border-radius: 50%;
-}
+    }
+    .abouthobby{
+        float: right;
+        width: 500px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 200px;
+        margin-left: 50px;
+        color: white;
+      }
