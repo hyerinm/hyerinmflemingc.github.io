@@ -10,11 +10,6 @@ body{
     display: inline;
   }
   
-  /*Locate the Navigation Bar to the left side */
-  li {
-    float: left;
-  }
-  
   /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
   because I didn't want a full- width background color */
   a {
@@ -30,7 +25,7 @@ body{
     overflow: hidden;
     background-color: #000000;
   }
-  
+   /*Locate the Navigation Bar to the right side */
   li {
     float: right;
   }
@@ -50,8 +45,10 @@ body{
   }
  .entry{
     width: 300px;
+    /*used float: left, so the images came from the left*/
     float: left;
-    margin-top: 150px;
+    /*Gave margin top 100px for entry on the left and headings and paragraphs on the right side. So it matches on the layout*/
+    margin-top: 100px;
     margin: 30px;
     margin-left: 50px;
  } 
@@ -63,9 +60,11 @@ figure img{
 }
 
 .veryimp{
+  /*used float: left, so the images came from the right*/
     float: right;
     width: 750px;
     margin-right: 70px;
+    /*Gave margin top 100px for entry on the left and headings and paragraphs on the right side. So it matches on the layout*/
     margin-top: 100px;
     margin-bottom: 100px;
     color: white;
