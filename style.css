@@ -67,7 +67,10 @@ h1{
  color: #E8CAEE;
   font-size: 35px;
  }
-
+ h3{
+  color: #D2A5E3;
+  font-size: 30px;
+}
 
 p{
   color:#C8C7EE;
@@ -83,6 +86,28 @@ p{
     /*Gave margin top 100px for entry on the left and headings and paragraphs on the right side. So it matches on the layout*/
     margin-top: 100px;
     margin-bottom: 100px;
-   
   }
 
+.entry1{
+  width: 220px;
+  float: left;
+  margin-right: 50px;
+  margin-top: 250px;
+  margin: 30px;
+  }
+  
+figure img{
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  }
+ 
+  /* Positions of h and p tags*/
+.abouthobby{
+    float: right;
+    width: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 50px;
+  }
