@@ -9,12 +9,6 @@ body{
     li{
     display: inline;
     }
-
-    /*Locate the Navigation Bar to the left side */
-    li {
-    float: left;
-    }
-
     /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
     because I didn't want a full- width background color */
     a {
