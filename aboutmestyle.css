@@ -48,21 +48,15 @@ body{
   li a:hover {
     background-color: #696969;
   }
-
- .column1of2{
+ .entry1{
+    width: 220px;
     float: left;
+    margin-right: 50px;
+    margin-top: 250px;
+    margin: 30px;
+ }
+ figure img{
     width: 350px;
-    margin-top: 200px;
-    margin-bottom: 50px;
-    margin-right: 150px;
-    margin-left: 350px;
-    }
-
-.column2of2{
-    float: right;
-    width: 350px;
-    margin-top: 200px;
-    margin-bottom: 100px;
-    margin-right: 350px;
-    margin-left: 50px;
-    color: white;}
+    height: 350px;
+    border-radius: 50%;
+}
