@@ -60,17 +60,17 @@ figure img{
 }
 h1{
   font-style: italic;
-  font-size: 50px;
+ font-size: 50px;
   color: pink;
-}
-h2{
-  color: rgb(228, 190, 197);
+ }
+ h2{
+ color: rgb(228, 190, 197);
   font-size: 35px;
-}
-p{
+ }
+ p{
   color: #F5F5DC;
   font-size: 20px;
-}
+ }
 .veryimp{
   /*used float: left, so the images came from the right*/
     float: right;
@@ -79,6 +79,6 @@ p{
     /*Gave margin top 100px for entry on the left and headings and paragraphs on the right side. So it matches on the layout*/
     margin-top: 100px;
     margin-bottom: 100px;
-    
+   
   }
 
