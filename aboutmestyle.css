@@ -1,62 +1,31 @@
-body{
-    margin: 0;
-    /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
-    padding: 0;
-    background: url(background.jpg) no-repeat;
-    background-size: cover;
-  }
-  /*Creating Horizontal Navigation Bar by using inline */
-  li{
-    display: inline;
-  }
-  
-  /*Locate the Navigation Bar to the left side */
-  li {
-    float: left;
-  }
-  
-  /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
-  because I didn't want a full- width background color */
-  a {
-    display: block;
-    padding: 8px;
-    background-color: #2F4F4F;
-  }
-  
-  ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #000000;
-  }
-  
-  li {
-    float: right;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: 'Commissioner', sans-serif;
-  }
-  
-  /* Change the link color to ##DEB887 on hover */
-  li a:hover {
-    background-color: #696969;
-  }
- .entry1{
-    width: 220px;
-    float: left;
-    margin-right: 50px;
-    margin-top: 250px;
-    margin: 30px;
- }
- figure img{
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
-}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>MypPrsonalWebsite</title>
+    <!-- Bring Styles from style.css-->
+    <link rel="stylesheet" href="aboutme.css">
+
+    <!--Navigation Bar = List of Links-->
+    <!--with <a> tag, defined hyperlinks. The href attribute specifies the URL of the page the link goes to:-->
+    <!-- Made html pages (index.html, resume.html) on github first, linked, and named them as WELCOME. RESUME-->
+    <ul>
+        <li><a href="https://www.linkedin.com/in/hyerinmun/">04. LinkedIn</a></li>
+        <li><a href="https://flemingcollege.ca/programs/geographic-information-systems-applications-specialist">03. Fleming College</a></li>
+        <li><a href="aboutme.html">02. ABOUT ME</a></li>
+        <li><a href="index.html">01. WELCOME</a></li>
+    </ul>
+</head>
+
+<div class="entry1">
+    <figure><img src="images/me6.jpg" alt="Me6" style="width:350px;height:350px;"></figure>
+</div>
+<div class="entry1">
+    <figure><img src="images/me3.jpg" alt="Me3" style="width:350px;height:350px;"></figure>
+</div>
+<div class="entry1">
+    <figure><img src="images/me4.jpg" alt="Me4" style="width:350px;height:350px;"></figure>
+</div>
+
+<!--https://brittanychiang.com/-->
+</html>
