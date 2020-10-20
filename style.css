@@ -73,6 +73,8 @@ p{
   color:#C8C7EE;
   font-size: 20px;
  }
+
+ /*Positions for the h tags and p tags*/
 .veryimp{
   /*used float: left, so the images came from the right*/
     float: right;
