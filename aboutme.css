@@ -56,13 +56,18 @@ body{
     }
     h1{
         font-style: italic;
-       font-size: 50px;
+        font-size: 50px;
         color: pink;
        }
-       h2{
-       color: rgb(228, 190, 197);
+    h2{
+        color: rgb(228, 190, 197);
         font-size: 35px;
        }
+    h3{
+        color: #D2A5E3;
+        font-size: 30px;
+    }
+       
        p{
         color: #F5F5DC;
         font-size: 20px;
