@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    /* padding: properties are sued to generate space around an element's comment, inside of any defined borders*/
+    padding: 0;
+    background: url(background.jpg) no-repeat;
+    background-size: cover;
+  }
+  /*Creating Horizontal Navigation Bar by using inline */
+  li{
+    display: inline;
+  }
+  
+  /*Locate the Navigation Bar to the left side */
+  li {
+    float: left;
+  }
+  
+  /*Properties of block of nav bar, I put the background-color inside of a instead of ul, 
+  because I didn't want a full- width background color */
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #2F4F4F;
+  }
+  
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Commissioner', sans-serif;
+  }
+  
+  /* Change the link color to ##DEB887 on hover */
+  li a:hover {
+    background-color: #696969;
+  }
+ .entry1{
+    width: 220px;
+    float: left;
+    margin-right: 50px;
+    margin-top: 250px;
+    margin: 30px;
+ }
+ figure img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
