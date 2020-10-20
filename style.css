@@ -50,18 +50,11 @@ body{
   }
  .entry{
     width: 220px;
-    margin-left: 200px;
-    margin-right: 100px;
+    float: left;
     margin-top: 150px;
     margin: 30px;
  } 
- .entry1{
-    width: 220px;
-    float: left;
-    margin-right: 50px;
-    margin-top: 250px;
-    margin: 30px;
- }
+
 figure img{
     width: 350px;
     height: 350px;
@@ -75,5 +68,6 @@ figure img{
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 50px;
-    color: white;}
+    color: white;
+  }
 
