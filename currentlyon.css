@@ -48,6 +48,40 @@ body{
   li a:hover {
     background-color: #696969;
   }
-.imp{
-    color: white;
-    text-align: center;}
+ .entry{
+     width: 220px;
+     float: left;
+     margin-top: 30px;
+     margin: 30px;
+     height: 198px;
+ } 
+ .entry1{
+     width: 220px;
+     margin-left: 30px;
+     margin-top: 300px;
+    margin: 30px;
+    height: 198px;
+} 
+.entry2{
+   width: 220px;
+   float: left;
+    margin-top: 500x;
+    margin: 30px;
+    height: 198px;
+}   
+
+figure img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+.veryimp{
+    float: right;
+    width: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 50px;
+    color: white;}
+
