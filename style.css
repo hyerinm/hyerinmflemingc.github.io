@@ -5,6 +5,8 @@ body{
     background: url(background.jpg) no-repeat;
     background-size: cover;
   }
+  /*https://www.youtube.com/watch?v=gXkqy0b4M5g*/
+  /* I followed above youtube video to make navigation bar*/
   /*Creating Horizontal Navigation Bar by using inline */
   li{
     display: inline;
@@ -60,12 +62,12 @@ figure img{
 }
 h1{
   font-style: italic;
- font-size: 50px;
+  font-size: 50px;
   color: pink;
  }
  h2{
- color: #E8CAEE;
-  font-size: 35px;
+   color: #E8CAEE;
+    font-size: 35px;
  }
  h3{
   color: #D2A5E3;
@@ -95,7 +97,7 @@ p{
   margin-top: 250px;
   margin: 30px;
   }
-  
+
 figure img{
   width: 350px;
   height: 350px;
