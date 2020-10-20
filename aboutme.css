@@ -38,10 +38,11 @@ body{
     font-family: 'Commissioner', sans-serif;
     }
 
-    /* Change the link color to ##DEB887 on hover */
+    /* Change the link color to 696969 on hover */
     li a:hover {
     background-color: #696969;
     }
+    /*positions of three images*/
     .entry1{
     width: 220px;
     float: left;
@@ -68,10 +69,11 @@ body{
         font-size: 30px;
     }
        
-       p{
+    p{
         color: #F5F5DC;
         font-size: 20px;
-       }
+    }
+    /* Positions of h and p tags*/
     .abouthobby{
         float: right;
         width: 500px;
