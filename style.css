@@ -51,6 +51,7 @@ body{
  .entry{
     width: 220px;
     margin-left: 200px;
+    margin-right: 100px;
     margin-top: 150px;
     margin: 30px;
  } 
